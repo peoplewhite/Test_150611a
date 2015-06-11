@@ -18,4 +18,12 @@
 @property IBOutlet UIButton *btnPic3;
 @property IBOutlet UIButton *btnPic4;
 
+@property IBOutlet UIImageView *imgPic;
+
+@property UIImage *img1;
+@property UIImage *img2;
+@property UIImage *img3;
+@property UIImage *img4;
+
+@property int picNum;
 @end
